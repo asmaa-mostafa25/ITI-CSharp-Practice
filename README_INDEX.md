@@ -8,9 +8,9 @@
 
 | التمرين | بيغطي إيه | الرابط |
 |---|---|---|
-| 📖 Book | Class, Object, Fields, Methods | [Book-Solution/README.md](./Book-Solution/README.md) |
-| 🔢 Fraction & Shapes | Operator Overloading, Inheritance, Polymorphism, Abstract Classes | [Fraction-Shapes-Solution/README.md](./Fraction-Shapes-Solution/README.md) |
-| 🎓 Student | Encapsulation, Validation, Constructor Chaining | [Student-Solution/README.md](./Student-Solution/README.md) |
+| 📖 Book | Class, Object, Fields, Methods | [OOPConcepts/README.md](./OOPConcepts/README.md) |
+| 🔢 Fraction & Shapes | Operator Overloading, Inheritance, Polymorphism, Abstract Classes | [fraction Itl/README.md](./fraction%20Itl/README.md) |
+| 🎓 Student | Encapsulation, Validation, Constructor Chaining | [StudentITI/README.md](./StudentITI/README.md) |
 
 ---
 
@@ -19,15 +19,15 @@
 ```
 ITI-CSharp-Practice/
 ├── README.md                     ← الملف ده (الفهرس الرئيسي)
-├── Book-Solution/
+├── OOPConcepts/
 │   ├── README.md
-│   └── ... (ملفات الكود)
-├── Fraction-Shapes-Solution/
+│   └── ... (ملفات الكود - Book)
+├── fraction Itl/
 │   ├── README.md
-│   └── ... (ملفات الكود)
-└── Student-Solution/
+│   └── ... (ملفات الكود - Fraction & Shapes)
+└── StudentITI/
     ├── README.md
-    └── ... (ملفات الكود)
+    └── ... (ملفات الكود - Student)
 ```
 
 ---
